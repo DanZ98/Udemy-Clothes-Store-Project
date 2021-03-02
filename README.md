@@ -6,7 +6,7 @@ A Udemy static landing page project showcasing HTML5 and CSS(Sass). The objectiv
 
 Udemy SASS The complete SASS Course (CSS Preprocessor):  https://www.udemy.com/share/101D1kAEcbdFZbR3g=/
 
-Author/Instructor: George Lomidze/Lasha Nozadze
+Author/Instructors: George Lomidze/Lasha Nozadze
 
 
 
